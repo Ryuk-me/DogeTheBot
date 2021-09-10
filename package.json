@@ -1,0 +1,34 @@
+{
+  "name": "whatsapp-webjs-based",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryuk-me/Whatsapp-webjs-based.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryuk-me/Whatsapp-webjs-based/issues"
+  },
+  "homepage": "https://github.com/Ryuk-me/Whatsapp-webjs-based#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bad-words": "^3.0.4",
+    "basic-ftp": "^4.6.6",
+    "cheerio": "^1.0.0-rc.10",
+    "compile-run": "^2.3.4",
+    "g-i-s": "^2.1.6",
+    "gtts": "^0.2.1",
+    "jimp": "^0.16.1",
+    "mongoose": "^5.13.2",
+    "profanity-hindi": "^1.1.0",
+    "whatsapp-web.js": "^1.14.0"
+  }
+}
