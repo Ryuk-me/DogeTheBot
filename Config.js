@@ -9,6 +9,6 @@ module.exports = {
     MONGO_DB_URI: "",// get mongodb uri(create a cluster to get mongo db uri) from here https://www.mongodb.com/ or visit here https://www.youtube.com/watch?v=YZ66YqGPip8
     BOT_NUMBER: "918521456930", // enter your bot number here with country code and without (+)
     CONTACT_ME: "https://t.me/ryuk_me", // enter you social link here so that people can contact you regarding bot access
-    MAX_MUTE_TIME: 300,
+    MAX_MUTE_TIME: 300, // where 300 is in minutes
     COMMAND_TIMEOUT: 5 // where 10 is in seconds
 }
