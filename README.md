@@ -52,6 +52,7 @@ you've just cloned!!
 | Add group participants  | ✅  |
 | Kick group participants  | ✅  |
 | Promote/demote group participants | ✅ |
+| enable or disable nsfw | ✅ |
 | Mute/unmute chats | ✅ |
 | Get Message Count By User | ✅ |
 | Image Search | ✅ |
