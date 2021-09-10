@@ -8,13 +8,13 @@
 
 <p align="center">
 <a href="https://github.com/Ryuk-me"><img title="Author" src="https://img.shields.io/badge/Author-Ryuk--me-red.svg?style=for-the-badge&logo=github"></a>
-</p>
+</p>A
 
 <p align="center">
 <a href="https://github.com/Ryuk-me"><img title="Followers" src="https://img.shields.io/github/followers/Ryuk-me?color=blue&style=flat-square"></a>
 <a href="https://github.com/Ryuk-me/DogeTheBot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ryuk-me/DogeTheBot?color=red&style=flat-square"></a>
-<a href="https://github.com/Ryuk-me/DogeTheBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ryuk-me/DogeTheBot?color=red&style=flat-square"></a>
-</p>
+<a href="https://github.com/Ryuk-me/DogeTheBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ryuk-me/dogethebot?color=red&style=flat-square"></a>
+</p
 
 ## Clone this project
 
