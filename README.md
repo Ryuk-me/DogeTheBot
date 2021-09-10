@@ -27,7 +27,7 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> npm i (make sure node is intsalled in your computer)
+> npm i (make sure node is installed in your computer)
 ```
 
 ## Credentials
