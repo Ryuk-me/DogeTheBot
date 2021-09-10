@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/WhatsApp Bot-EC8FD0?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/WhatsApp Bot-F43B86?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 
 <p align="center">
 <a href="https://github.com/Ryuk-me"><img title="Author" src="https://img.shields.io/badge/Author-Ryuk--me-red.svg?style=for-the-badge&logo=github"></a>
-</p>A
+</p>
 
 <p align="center">
-<a href="https://github.com/Ryuk-me"><img title="Followers" src="https://img.shields.io/github/followers/Ryuk-me?color=blue&style=flat-square"></a>
+<a href="https://github.com/Ryuk-me"><img title="Followers" src="https://img.shields.io/github/followers/Ryuk-me?color=teal&style=flat-square"></a>
 <a href="https://github.com/Ryuk-me/DogeTheBot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ryuk-me/DogeTheBot?color=red&style=flat-square"></a>
 <a href="https://github.com/Ryuk-me/DogeTheBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ryuk-me/dogethebot?color=red&style=flat-square"></a>
 </p
@@ -104,6 +104,3 @@ you've just cloned!!
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ---
-
-
-
