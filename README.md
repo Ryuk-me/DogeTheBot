@@ -62,7 +62,7 @@ you've just cloned!!
 
 ### Owner Only features
 
-| Owner Bot Only  |              Feature                |
+| Feature  |              Status               |
 | ------------- | ------------- |
 | Authorization      | ✅  |
 | Deauthorization      | ✅  |
